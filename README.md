@@ -48,7 +48,7 @@ QuietMap is a covert tool designed for automated network mapping, packet collect
 To run the Nmap feature, simply provide the target IP or domain name:
 
 ```bash
-cargo run -- <target-ip>
+cargo run
 ```
 
 This will initiate a silent scan and store the results in a text file categorized by scan type.
