@@ -19,7 +19,7 @@ QuietMap is a covert tool designed for automated network mapping, packet collect
 1. Clone the repository:
   
   ```bash
-  git clone https://github.com/AustinSAdams/quietmap.git
+  git clone https://github.com/AustinSAdams/QuietMap.git
   ```
   
 2. Navigate to the project directory:
